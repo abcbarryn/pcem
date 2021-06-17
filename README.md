@@ -5,7 +5,7 @@ Latest version: <b>v17</b> [Changelog](https://pcem-emulator.co.uk/index.html)
 
 PCem is licensed under GPL v2.0, see [COPYING](COPYING) for more details.
 
-You can submit patches on our [forum](https://pcem-emulator.co.uk/phpBB3). Before you do, please note the [guidelines](https://pcem-emulator.co.uk/phpBB3/viewtopic.php?f=3&t=5) for submitting patches.
+You can submit patches to this fork to me, barry.nelson@amobiledevice.com. I mainly created this fork so that the source code would not be lost.
 
 :exclamation: Note: <b>NO COPYRIGHTED ROM FILES ARE INCLUDED NOR WILL THEY BE. PLEASE DO NOT ASK FOR THEM.</b>
 
